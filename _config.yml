@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanzhi Yu"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "Ph.D. Student   
   Electrical & Computer Engieering  
   University of Miami"
