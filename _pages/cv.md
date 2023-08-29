@@ -36,21 +36,3 @@ Publications
     <li>H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", 
     2023 IEEE Global Communications Conference: Selected Areas in Communications: Integrated Sensing and Communication</li>
   </ul>
-
-[comment]: <
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
->
