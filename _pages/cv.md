@@ -11,37 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Internet of Things Engineering, Central South University, 2019
+* Ph.D in Electrical & Computer Engineering, University of Miami, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2020 - Jul 2022: Technician at Control Center
+  * Weifang Heating Power Company
+  * Duties included: 
+    * Engaged in the maintenance of the heat station SCADA system
+    * Led the project of implementing the Intelligent Heat Supply Control Platform:
+      * Responsible for designing the architecture of the platform
+      * Engaged in the research of an ML algorithm for heat supply auto-control
+      * Engaged in the test and the maintenance of the platform
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming
+* Machine Learning Algorithms & Techniques
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  <ul>
+    <li>H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", 
+    2023 IEEE Global Communications Conference: Selected Areas in Communications: Integrated Sensing and Communication</li>
+  </ul>
+
+[comment]: <
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +53,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>

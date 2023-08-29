@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-A Ph.D. student and Research Assistant from Electrical & Computer Engineering, University of Miami. Advised by Dr. Mingzhe Chen.  
-Research Area: The application of Neural Networks. 
+Ph.D. student and Research Assistant at Electrical & Computer Engineering, University of Miami. Advised by Dr. Mingzhe Chen.  
+Research Area: Application of Neural Networks. 
